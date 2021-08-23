@@ -17,12 +17,12 @@ Screenshots of web pages
 ## Home
 
 Very Large Image
-![Screenshot (46)](https://user-images.githubusercontent.com/88185419/130444762-c8ba4283-bc5b-40be-bbe4-10e2b11d5c1a.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/88185419/130448854-4be24832-0e81-433b-ad87-c6764c179876.png)
+
 
 
 ## Harmburger
 Very Large Image
-![Screenshot (45)](https://user-images.githubusercontent.com/88185419/130444420-4cd6aeef-0006-4a79-b0e9-5532740fd534.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/88185419/130448904-c6fa4dff-64f8-4bd4-a789-e4529c7939bc.png)
 
-Very Large Image
-Screenshot(38)
+ 
