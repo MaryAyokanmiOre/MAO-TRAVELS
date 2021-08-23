@@ -1,4 +1,4 @@
-# MAO-TRAVELS (optimizing files for 25mb upload cap
+# MAO-TRAVELS (optimizing files for 25mb upload cap)
 
 This is an amazing, beautiful and responsive travel agency website; constructed with HTML/CSS/JS. Currently it has 5 pages;
 Home
