@@ -1,4 +1,4 @@
-# MAO-TRAVELS (optimizing files for 25mb upload cap)
+# MAO-TRAVELS
 
 This is an amazing, beautiful and responsive travel agency website; constructed with HTML/CSS/JS. Currently it has 5 pages;
 Home
@@ -25,5 +25,4 @@ Very Large Image
 Very Large Image
 ![Screenshot (48)](https://user-images.githubusercontent.com/88185419/130448904-c6fa4dff-64f8-4bd4-a789-e4529c7939bc.png)
 
- # VIDEO OF HOW THE WEBSITE WORKS IS UNDER FILE. I WILL BE OPTIMIZING TO REDUCE FILE SIZE LATER SO I CAN UPLOADE THE CODES, ETC AND SWITCH WITH THE CURRENT VIDEO...
  
